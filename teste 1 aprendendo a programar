@@ -1,0 +1,13 @@
+printf("v equals %d/n",v);
+/* Addition */
+v += 20;
+printf("v + 20 equals %d/n",v);
+/* Subtraction */
+v -= 2;
+printf("v -2 equals %d/n",v);
+function showhide (obj_id, img)
+((secure) ? "; secure" : "");
+window.document.cookie = curCookie
+int iLenght, iN;
+double db1Temp;
+bool again = true;
