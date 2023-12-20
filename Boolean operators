@@ -1,0 +1,6 @@
+export function Run() {
+    let animes = ['One Punch Man', 'Dragon Ball', 'One Piece'];
+    for (let anime of animes) {
+        console.log(anime.startsWith('One'));
+    }
+}
